@@ -292,6 +292,6 @@ color: var(--secondary-color);
     font-size: 18px;
 }
 .footer span{
-    color: var(--main-color);
+    color: red;
 }
 /* End Footer */
